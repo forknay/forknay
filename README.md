@@ -1,5 +1,4 @@
-I joined GitHub on `{{ f.date(REGISTRATION_DATE, {date:true}) }}`.
-I contributed to `{{ REPOSITORIES_CONTRIBUTED_TO }}` repositories and made `{{ COMMITS }}` commits.
+
 <!--
 **forknay/forknay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
