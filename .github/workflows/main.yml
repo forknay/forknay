@@ -19,4 +19,3 @@ jobs:
           # Options
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: America/Toronto
