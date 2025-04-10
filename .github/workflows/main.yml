@@ -18,3 +18,5 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, repositories
           plugin_lines: yes
+          template: markdown
+          plugin_activity: yes
