@@ -1,6 +1,5 @@
 hi im a software eng student at mcgill university in mtl, canada :D
-<br>
-  (look at my pinned repos for my projects)
+
 <!--
 **forknay/forknay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
